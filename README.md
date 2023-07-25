@@ -1,5 +1,36 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text=Welcome!&desc=to%20🧑🏻‍💻%20Hyuntaek's%20Profile&fontSize=50%&fontColor=ffffff )
 
+  
+### 👨‍💻 Introduction
+  👋 안녕하세요! 하고싶은게 많은 iOS 개발자 오현택입니다.
+
+
+### 📌 SKill
+
+<img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-%23F05138?logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIkit-%232396F3?logo=UIkit&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=Firebase&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white"/>
+
+### 📚 Education
+
+🏫 **협성대학교 컴퓨터공학과 `졸업`** (2017.03 ~ 2023.02)<br/>
+✏️ **앨런 Swift Master School 8기 `수료`** (2023.01 ~ 2023.3)<br/>
+  ㅤ
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunTaekO&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunTaekO&layout=compact)](https://github.com/choi-ik/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunTaekO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 <!--
 **HyunTaekO/HyunTaekO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,8 +4,11 @@
 
   
 ### 👨‍💻 Introduction
-  👋 안녕하세요! 하고싶은게 많은 iOS 개발자 오현택입니다.
-
+  👋 **안녕하세요! 하고싶은게 많은 iOS 개발자 오현택입니다.**
+<p>
+  <a href="https://developer-taeke.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tech Blog-black?logo=Tistory&logoColor=white?style=flat"/></a>
+  <a href="mailto:htoh55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 ### 📌 SKill
 

@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/-iOS-%23000000?logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-%23F05138?logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/UIkit-%232396F3?logo=UIkit&logoColor=white"/>
+<img src="https://img.shields.io/badge/RxSwift-B7178C?&logo=ReactiveX&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=Firebase&logoColor=white"/>
 <br>

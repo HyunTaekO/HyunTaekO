@@ -27,13 +27,12 @@
 ✏️ **앨런 Swift Master School 8기 `수료`** (2023.01 ~ 2023.3)<br/>
   ㅤ
   
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunTaekO&layout=compact)](https://github.com/HyunTaekO/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunt55)](https://solved.ac/hyunt55/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunTaekO&layout=compact)](https://github.com/HyunTaekO/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunTaekO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 <!--

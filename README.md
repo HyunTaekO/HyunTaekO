@@ -25,7 +25,7 @@
 
 ### 📚 Education
 ✏️ **앨런 Swift Master School 8기 `수료`** (2023.01 ~ 2023.03)<br/>
-🎓 **협성대학교 컴퓨터공학과 졸업** (2017.03 ~ 2023.02)<br/>
+🎓 **협성대학교 컴퓨터공학과 `졸업`** (2017.03 ~ 2023.02)<br/>
   ㅤ
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunTaekO&layout=compact)](https://github.com/HyunTaekO/github-readme-stats)

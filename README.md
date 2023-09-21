@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text=Welcome!&desc=to%20🧑🏻‍💻%20Hyuntaek's%20Profile&fontSize=50%&fontColor=ffffff )
 
   
-### 👨‍💻 Introduction
-  👋 **안녕하세요! 하고싶은게 많은 iOS 개발자 오현택입니다.**
+### 👨‍💻 **안녕하세요! iOS 개발자 오현택입니다. 👋**
+  
+  
 <p>
   <a href="https://developer-taeke.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tech Blog-black?logo=Tistory&logoColor=white?style=flat"/></a>
   <a href="mailto:htoh55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -23,8 +24,8 @@
 <img src="https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=white"/>
 
 ### 📚 Education
-
-✏️ **앨런 Swift Master School 8기 `수료`** (2023.01 ~ 2023.3)<br/>
+✏️ **앨런 Swift Master School 8기 `수료`** (2023.01 ~ 2023.03)<br/>
+🎓 **협성대학교 졸업** (2017.03 ~ 2023.02)<br/>
   ㅤ
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunTaekO&layout=compact)](https://github.com/HyunTaekO/github-readme-stats)

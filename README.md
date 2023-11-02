@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text=Welcome!&desc=to%20🧑🏻‍💻%20Hyuntaek's%20Profile&fontSize=50%&fontColor=ffffff )
 
   
-### 👨‍💻 **안녕하세요! iOS 개발자 오현택입니다. 👋**
+### 👨‍💻 **안녕하세요! 개발자 오현택입니다. 👋**
   
   
 <p>
